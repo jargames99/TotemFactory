@@ -1,0 +1,15 @@
+{
+    "type": "create:pressing",
+    "ingredients": [
+      {
+        "item": "totemfactory:utotem9"
+      }
+
+    ],
+    "results": [
+      {
+        "item": "totemfactory:utotem10"
+      }
+    ]
+
+  }

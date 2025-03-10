@@ -1,0 +1,19 @@
+{
+    "type": "create:deploying",
+            "ingredients": [
+                {
+                   "item": "create:brass_sheet"
+                },
+            [
+                {
+                "item":"unusualend:gilded_pearl"
+                }
+            ]
+            ],
+
+            "results": [
+              {
+                  "item": "totemfactory:utotem7"
+              }
+            ]
+  }
