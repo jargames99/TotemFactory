@@ -1,25 +1,46 @@
+* * *
 
-Installation information
-=======
+<span style="font-size: 14px;"><em><span style="color: #993300;">IMPORTANT</span></em></span>
+---------------------------------------------------------------------------------------------
 
-This template repository can be directly cloned to get you started with a new
-mod. Simply create a new repository cloned from this one, by following the
-instructions provided by [GitHub](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template).
+<span style="color: #993300;">This mod requires <a href="https://www.curseforge.com/minecraft/mc-mods/create" target="_blank" rel="noopener noreferrer">Create</a> and <a href="https://www.curseforge.com/minecraft/mc-mods/create-enchantment-industry" target="_blank" rel="noopener noreferrer">Create Enchantment Industry.</a></span>
 
-Once you have your clone, simply open the repository in the IDE of your choice. The usual recommendation for an IDE is either IntelliJ IDEA or Eclipse.
+* * *
 
-If at any point you are missing libraries in your IDE, or you've run into problems you can
-run `gradlew --refresh-dependencies` to refresh the local cache. `gradlew clean` to reset everything 
-{this does not affect your code} and then start the process again.
+#### **![](https://media.forgecdn.net/attachments/description/978675/description_0c80647f-43e3-48ee-bce9-f81d45f49717.png)**
 
-Mapping Names:
-============
-By default, the MDK is configured to use the official mapping names from Mojang for methods and fields 
-in the Minecraft codebase. These names are covered by a specific license. All modders should be aware of this
-license. For the latest license text, refer to the mapping file itself, or the reference copy here:
-https://github.com/NeoForged/NeoForm/blob/main/Mojang.md
+This mod adds a way to craft Totems of Unidying in an immersive and complex process using Create and Create Enchantment Industry.
 
-Additional Resources: 
-==========
-Community Documentation: https://docs.neoforged.net/  
-NeoForged Discord: https://discord.neoforged.net/
+The process can be divided into four parts:
+
+Making the Totem Head
+---------------------
+
+The first step in the process is making the totem head casing using a saw and press. You will then need to imbue the head with the effects of fire resistance and regeneration. When the process is finished a brass ingot is used to seal the potions and add the iconic nose.
+
+![](https://media.forgecdn.net/attachments/description/978675/description_204df275-6030-4093-9c34-5f4faaf00e45.png)
+
+Making the Totem Body
+---------------------
+
+A similar procedure is used to create the totem body. To create the body casing you must use the same process but using a brass ingot instead of a brass sheet. Instead of using potions, you must insert an end crystal into the body, which will give the totem the resurrection powers that these crystals use to revive the ender dragon. Like the previous process, you will nedd to seal the casing with brass.
+
+![](https://media.forgecdn.net/attachments/description/978675/description_1b582d98-0731-4003-9c40-63a835ef314f.png)
+
+Assembling the Totem
+--------------------
+
+With both of the totem parts you can now start the assembling procedure. Along with the totem parts you will also need to add the emerald eyes of the totem. This is achieved by placing all of the needed parts into four mechanical crafters.
+
+![screenshot image](https://media.forgecdn.net/attachments/813/436/totem1.png)
+
+Activating the Totem
+--------------------
+
+The final part of the process is used to activate the totem, so it can detect and use it's powers when you are defeated. To accomplish this you must cover the totem in experience, giving it the ability to sense when it's holder perishes.
+
+![](https://media.forgecdn.net/attachments/description/978675/description_ecf16d66-3fa7-42a2-9acf-c01c40288248.png)
+
+ 
+
+After all of these steps your own homemade Totem of Undying will be ready!
