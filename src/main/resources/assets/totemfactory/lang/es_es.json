@@ -1,14 +1,11 @@
 {
-  "item.totemfactory.utotem1" : "Tótem de inmortalidad inacabado",
-  "item.totemfactory.utotem2" : "Tótem de inmortalidad inacabado",
-  "item.totemfactory.utotem3" : "Tótem de inmortalidad inacabado",
-  "item.totemfactory.utotem4" : "Tótem de inmortalidad inacabado",
-  "item.totemfactory.utotem5" : "Tótem de inmortalidad inacabado",
-  "item.totemfactory.utotem6" : "Tótem de inmortalidad inacabado",
-  "item.totemfactory.utotem7" : "Tótem del vacío inacabado",
-  "item.totemfactory.utotem8" : "Tótem del vacío inacabado",
-  "item.totemfactory.utotem9" : "Tótem del vacío inacabado",
-  "item.totemfactory.utotem10" : "Tótem del vacío inacabado",
-  "item.totemfactory.utotem11" : "Tótem del vacío inacabado",
-  "item.totemfactory.utotem12" : "Tótem del vacío inacabado"
+  "item.totemfactory.incomplete_totem_body_casing" : "Carcasa de cuerpo de tótem incompleta ",
+  "item.totemfactory.totem_body_casing" : "Carcasa de cuerpo de tótem de la inmortalidad",
+  "item.totemfactory.incomplete_totem_body" : "Cuerpo de tótem de la inmortalidad incompleto",
+  "item.totemfactory.totem_body" : "Cuerpo de tótem de la inmortalidad",
+  "item.totemfactory.totem_head" : "Cabeza de tótem de la inmortalidad",
+  "item.totemfactory.totem_head_casing" : "Carcasa de cabeza de tótem de la inmortalidad",
+  "item.totemfactory.incomplete_totem_head" : "Cabeza de tótem de la inmortalidad incompleta",
+  "item.totemfactory.incomplete_totem_head_casing" : "Carcasa de cabeza de tótem de la inmortalidad incompleta",
+  "item.totemfactory.inactive_totem" : "Tótem de la inmortalidad inactivo"
 }

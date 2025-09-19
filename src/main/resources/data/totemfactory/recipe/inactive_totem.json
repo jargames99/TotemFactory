@@ -1,0 +1,25 @@
+{
+  "type": "create:mechanical_crafting",
+  "accept_mirrored": false,
+  "category": "misc",
+  "key": {
+    "E": {
+      "item": "minecraft:emerald"
+    },
+    "H": {
+      "item": "totemfactory:totem_head"
+    },
+    "B": {
+      "item": "totemfactory:totem_body"
+    }
+  },
+  "pattern": [
+    "EHE",
+    " B "
+  ],
+  "result": {
+    "count": 1,
+    "id": "totemfactory:inactive_totem"
+  },
+  "show_notification": false
+}

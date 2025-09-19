@@ -1,0 +1,6 @@
+{
+  "parent" : "minecraft:item/generated",
+  "textures": {
+    "layer0" : "totemfactory:item/incomplete_totem_head_casing"
+  }
+}
